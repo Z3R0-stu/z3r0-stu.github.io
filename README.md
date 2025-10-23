@@ -1,1 +1,1 @@
-READ ME Placeholder
+This is my website which is available @ http://z3r0-stu.github.io
